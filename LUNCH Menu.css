@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+    height: 450px;
+}
+tr{
+    background-color: #eae4bf;
+}
+
+th ,td{ 
+    text-align:center;
+}
+table,th,td{
+    border: 2px soild #a3e886;
+    border-collapse:collapse;
+}
+th,td {
+    padding: 10px;
+}
+
+td:hover{
+    background-color: #08aeae;
+}
